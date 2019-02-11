@@ -1,0 +1,49 @@
+.mile {
+  text-decoration: underline;
+  font-family: 'Courgette', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+#pile {
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  background-image: url(https://thumbs.dreamstime.com/t/wood-metallic-texture-background-rustic-banner-blue-tones-51204566.jpg);
+  color: #AB0909;
+  font-size: 40px;
+}
+.line1 {
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAl3zzGGma_EKTg5xWQLWowrc6ZIGJFbEipejIMx9bhTkSyrcv);
+  color: ##000000;
+}
+.line2 {
+  float: right;
+  font-size: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+#line3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+}
+.style {
+  color: blue;
+}
+#post1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+}
+.post {
+  float: right;
+}
+.post2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+}
+.most {
+  border:2px solid black
+}
+#vile {
+  text-align: center;
+}
